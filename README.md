@@ -1,2 +1,2 @@
-CodeClause Internship golden project
+CodeClause Internship  project
 
